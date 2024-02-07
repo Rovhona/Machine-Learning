@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine-LearningIntern
-Intern Career Machine Learning Internship tasks
+Intern Career Machine Learning Internship task
 
 TASK 1
+q
